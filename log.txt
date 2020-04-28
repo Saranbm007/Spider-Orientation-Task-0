@@ -1,6 +1,0 @@
-git clone https://github.com/Saranbm007/Spider-Orientation-Task-0.git - cloning the respository from the github.
-git branch firstname_lastname - creating a new branch called firstname_lastname.
-git checkout firstname_lastname - switching to firstname_lastname branch from master branch.
-git add log.txt - adding the log.txt to the stage.
-git commit -m "log.txt added" - commiting the changes to the branch with a message. 
-
